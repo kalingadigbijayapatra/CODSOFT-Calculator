@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    Margin: 0;
+    padding: 0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100  vh;
+}
+/*style for the main content*/
+
+      h1 {
+        color:aliceblue;
+        text-align:center;
+        font-size:2.5em
+    }
+      
+    
+    /*Additional styles for better presentation*/ 
+    html {
+        scroll-behavior:smooth;
+    }          
